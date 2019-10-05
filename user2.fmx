@@ -1,0 +1,70 @@
+object FrameUser2Aks: TFrameUser2Aks
+  Size.Width = 373.000000000000000000
+  Size.Height = 413.000000000000000000
+  Size.PlatformDefault = False
+  object EditNameUser2Login: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 0
+    Position.X = 120.000000000000000000
+    Position.Y = 38.000000000000000000
+  end
+  object EditUser2FullName: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 1
+    Position.X = 120.000000000000000000
+    Position.Y = 78.000000000000000000
+  end
+  object ButtonCreateUser2: TButton
+    Position.X = 128.000000000000000000
+    Position.Y = 110.000000000000000000
+    TabOrder = 2
+    Text = 'T'#7841'o'
+  end
+  object Label1: TLabel
+    Position.X = 16.000000000000000000
+    Position.Y = 38.000000000000000000
+    Text = 'T'#234'n '#272#259'ng Nh'#7853'p'
+    TabOrder = 3
+  end
+  object Label2: TLabel
+    Position.X = 16.000000000000000000
+    Position.Y = 78.000000000000000000
+    Size.Width = 89.000000000000000000
+    Size.Height = 17.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'T'#234'n '#272#7847'y '#272#7911
+    TabOrder = 4
+  end
+  object ButtonBack: TButton
+    Position.X = 288.000000000000000000
+    TabOrder = 5
+    Text = 'Back'
+  end
+  object ListViewUser2: TListView
+    ItemAppearanceClassName = 'TListItemAppearance'
+    ItemEditAppearanceClassName = 'TListItemShowCheckAppearance'
+    HeaderAppearanceClassName = 'TListHeaderObjects'
+    FooterAppearanceClassName = 'TListHeaderObjects'
+    Position.X = 16.000000000000000000
+    Position.Y = 192.000000000000000000
+    Size.Width = 249.000000000000000000
+    Size.Height = 201.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 6
+  end
+  object Label3: TLabel
+    Position.X = 56.000000000000000000
+    Position.Y = 152.000000000000000000
+    Size.Width = 136.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Danh Sach User2'
+    TabOrder = 7
+  end
+  object ButtonDeleteUser2: TButton
+    Position.X = 288.000000000000000000
+    Position.Y = 280.000000000000000000
+    TabOrder = 8
+    Text = 'X'#243'a'
+  end
+end

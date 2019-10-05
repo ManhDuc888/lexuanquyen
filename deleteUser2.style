@@ -1,0 +1,56 @@
+object TStyleContainer
+  object TLayout
+    StyleName = 'CustomItem'
+    Align = Center
+    Padding.Left = 3.000000000000000000
+    Padding.Top = 3.000000000000000000
+    Padding.Right = 3.000000000000000000
+    Padding.Bottom = 3.000000000000000000
+    Size.Width = 218.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object TText
+      StyleName = 'text'
+      Align = Top
+      HitTest = False
+      Position.X = 3.000000000000000000
+      Position.Y = 3.000000000000000000
+      Size.Width = 156.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Text'
+      TextSettings.FontColor = xFF909090
+      TextSettings.WordWrap = False
+      TextSettings.HorzAlign = Leading
+    end
+    object TLayout
+      Align = MostRight
+      Margins.Right = 6.000000000000000000
+      Position.X = 159.000000000000000000
+      Position.Y = 3.000000000000000000
+      Size.Width = 50.000000000000000000
+      Size.Height = 54.000000000000000000
+      Size.PlatformDefault = False
+      object TSpeedButton
+        StyleName = 'info'
+        Align = Top
+        HelpType = htKeyword
+        Size.Width = 50.000000000000000000
+        Size.Height = 19.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = 'buttonstyle'
+        Text = 'Xoa'
+      end
+    end
+  end
+  object TStyleDescription
+    StyleName = 'Description'
+    Author = 'Embarcadero Technologies Inc.'
+    AuthorURL = 'www.embarcadero.com'
+    PlatformTarget = '[IOSALTERNATE][DEFINEFONTSTYLES]'
+    MobilePlatform = True
+    Title = 'iOSBlack'
+    Version = '1.0'
+  end
+end

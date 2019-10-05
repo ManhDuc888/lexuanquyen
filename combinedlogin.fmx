@@ -1,0 +1,18 @@
+object FrameCombinedLogin: TFrameCombinedLogin
+  Size.Width = 322.000000000000000000
+  Size.Height = 44.000000000000000000
+  Size.PlatformDefault = False
+  object ButtonOtherLogin: TButton
+    Position.X = 96.000000000000000000
+    Size.Width = 81.000000000000000000
+    Size.Height = 44.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'chon'
+  end
+  object ButtonLogin: TButton
+    Position.X = 240.000000000000000000
+    TabOrder = 1
+    Text = 'login'
+  end
+end

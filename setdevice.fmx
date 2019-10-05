@@ -1,0 +1,96 @@
+object FrameSetDevice: TFrameSetDevice
+  Size.Width = 342.000000000000000000
+  Size.Height = 370.000000000000000000
+  Size.PlatformDefault = False
+  object LabelMac: TLabel
+    Position.X = 56.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 129.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    Text = #272#7883'a ch'#7881' Thi'#7871't b'#7883
+    TabOrder = 0
+  end
+  object Label1: TLabel
+    Position.X = 56.000000000000000000
+    Position.Y = 64.000000000000000000
+    Size.Width = 169.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Danh s'#225'ch ng'#432#7901'i d'#249'ng'
+    TabOrder = 1
+  end
+  object ComboBoxMac: TComboBox
+    Position.X = 56.000000000000000000
+    Position.Y = 40.000000000000000000
+    Size.Width = 169.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+  end
+  object ComboBoxUser2: TComboBox
+    Position.X = 56.000000000000000000
+    Position.Y = 88.000000000000000000
+    Size.Width = 169.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+  end
+  object ButtonSetDevice: TButton
+    Position.X = 48.000000000000000000
+    Position.Y = 328.000000000000000000
+    TabOrder = 4
+    Text = 'Thi'#7871't l'#7853'p'
+  end
+  object ButtonSetDeviceBack: TButton
+    Position.X = 248.000000000000000000
+    Position.Y = 8.000000000000000000
+    TabOrder = 5
+    Text = 'Back'
+  end
+  object CheckBoxArm: TCheckBox
+    Position.X = 80.000000000000000000
+    Position.Y = 168.000000000000000000
+    TabOrder = 6
+    Text = 'An Ninh'
+  end
+  object CheckBoxDisarm: TCheckBox
+    Position.X = 80.000000000000000000
+    Position.Y = 200.000000000000000000
+    TabOrder = 7
+    Text = 'T'#7855't An Ninh'
+  end
+  object CheckBoxLock: TCheckBox
+    Position.X = 80.000000000000000000
+    Position.Y = 232.000000000000000000
+    TabOrder = 8
+    Text = 'Kh'#243'a'
+  end
+  object CheckBoxUnlock: TCheckBox
+    Position.X = 80.000000000000000000
+    Position.Y = 264.000000000000000000
+    TabOrder = 9
+    Text = 'M'#7903
+  end
+  object CheckBoxHorn: TCheckBox
+    Position.X = 80.000000000000000000
+    Position.Y = 296.000000000000000000
+    TabOrder = 10
+    Text = 'C'#242'i'
+  end
+  object ButtonRemoveDevice: TButton
+    Position.X = 168.000000000000000000
+    Position.Y = 328.000000000000000000
+    TabOrder = 11
+    Text = 'B'#7887' thi'#7871't l'#7853'p'
+  end
+  object Label2: TLabel
+    Position.X = 56.000000000000000000
+    Position.Y = 128.000000000000000000
+    Size.Width = 177.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'C'#225'c n'#250't thi'#7871't l'#7853'p cho thi'#7871't b'#7883
+    TabOrder = 12
+  end
+end

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/19 09:49:58.000.138,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/19 09:50:31.000.557,B:\IOS\slockAks\Main.pas=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/19 09:50:31.000.557,B:\IOS\slockAks\Main.fmx=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/09/19 09:50:39.000.251,B:\IOS\slockAks\slock.dproj=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/09/19 09:55:46.000.105,=B:\IOS\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/19 09:55:55.000.806,B:\IOS\slockAks\login.pas=B:\IOS\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/19 09:55:55.000.807,B:\IOS\slockAks\login.fmx=B:\IOS\slockAks\Unit1.fmx</Transaction>
+    <Transaction>2019/09/19 15:19:02.000.231,=B:\IOS\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/19 15:19:14.000.372,B:\IOS\slockAks\controldevice.pas=B:\IOS\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/19 15:19:14.000.372,B:\IOS\slockAks\controldevice.fmx=B:\IOS\slockAks\Unit1.fmx</Transaction>
+    <Transaction>2019/09/21 06:18:57.000.869,=C:\FMX\20.9\delphi\v2.20.9\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/21 06:19:06.000.150,C:\FMX\20.9\delphi\v2.20.9\slockAks\Unit1.pas=C:\FMX\20.9\delphi\v2.20.9\slockAks\log.pas</Transaction>
+    <Transaction>2019/09/21 06:19:06.000.150,C:\FMX\20.9\delphi\v2.20.9\slockAks\Unit1.fmx=C:\FMX\20.9\delphi\v2.20.9\slockAks\log.fmx</Transaction>
+    <Transaction>2019/09/21 06:21:34.000.953,=C:\FMX\20.9\delphi\v2.20.9\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/21 06:21:47.000.330,C:\FMX\20.9\delphi\v2.20.9\slockAks\Unit1.pas=C:\FMX\20.9\delphi\v2.20.9\slockAks\settings.pas</Transaction>
+    <Transaction>2019/09/21 06:21:47.000.330,C:\FMX\20.9\delphi\v2.20.9\slockAks\Unit1.fmx=C:\FMX\20.9\delphi\v2.20.9\slockAks\settings.fmx</Transaction>
+    <Transaction>2019/09/21 07:03:36.000.904,=C:\FMX\20.9\delphi\v2.20.9\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/21 07:04:01.000.188,C:\FMX\20.9\delphi\v2.20.9\slockAks\Unit1.pas=C:\FMX\20.9\delphi\v2.20.9\slockAks\ThreadUpdateAPI.pas</Transaction>
+    <Transaction>2019/09/22 11:41:16.000.997,=C:\FMX\20.9\delphi\v2.20.9\slockAks\jsonadapter.pas</Transaction>
+    <Transaction>2019/09/24 08:11:09.000.659,=B:\IOS\aksv6\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/24 08:11:22.000.213,B:\IOS\aksv6\slockAks\Unit1.fmx=B:\IOS\aksv6\slockAks\plan.fmx</Transaction>
+    <Transaction>2019/09/24 08:11:22.000.213,B:\IOS\aksv6\slockAks\Unit1.pas=B:\IOS\aksv6\slockAks\plan.pas</Transaction>
+    <Transaction>2019/09/24 08:11:55.000.613,=B:\IOS\aksv6\slockAks\Unit2.pas</Transaction>
+    <Transaction>2019/09/24 08:12:16.000.099,B:\IOS\aksv6\slockAks\Unit2.fmx=B:\IOS\aksv6\slockAks\user2.fmx</Transaction>
+    <Transaction>2019/09/24 08:12:16.000.099,B:\IOS\aksv6\slockAks\Unit2.pas=B:\IOS\aksv6\slockAks\user2.pas</Transaction>
+    <Transaction>2019/09/25 08:37:35.000.637,=B:\IOS\aksv6\slockAks\Unit2.pas</Transaction>
+    <Transaction>2019/09/25 08:38:17.000.452,B:\IOS\aksv6\slockAks\combinedlogin.fmx=B:\IOS\aksv6\slockAks\Unit2.fmx</Transaction>
+    <Transaction>2019/09/25 08:38:17.000.452,B:\IOS\aksv6\slockAks\combinedlogin.pas=B:\IOS\aksv6\slockAks\Unit2.pas</Transaction>
+    <Transaction>2019/09/26 08:27:13.000.158,=B:\IOS\aksv10\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/26 08:27:23.000.629,B:\IOS\aksv10\slockAks\Unit1.pas=B:\IOS\aksv10\slockAks\checkInternet.pas</Transaction>
+    <Transaction>2019/09/26 08:37:16.000.240,=B:\IOS\aksv10\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/26 08:37:25.000.529,B:\IOS\aksv10\slockAks\Unit1.pas=B:\IOS\aksv10\slockAks\offline.pas</Transaction>
+    <Transaction>2019/09/26 08:37:25.000.529,B:\IOS\aksv10\slockAks\Unit1.fmx=B:\IOS\aksv10\slockAks\offline.fmx</Transaction>
+    <Transaction>2019/09/26 08:40:47.000.834,B:\IOS\aksv10\slockAks\checkInternet.pas=B:\IOS\aksv10\slockAks\checkInternetIOS.pas</Transaction>
+    <Transaction>2019/09/26 08:44:36.000.653,B:\IOS\aksv10\slockAks\offline.pas=</Transaction>
+    <Transaction>2019/09/26 08:47:06.000.291,=B:\IOS\aksv10\slockAks\checkInternetIOS.pas</Transaction>
+    <Transaction>2019/09/26 08:47:12.000.825,B:\IOS\aksv10\slockAks\checkInternetIOS.pas=</Transaction>
+    <Transaction>2019/09/26 08:47:45.000.070,=B:\IOS\aksv10\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/26 08:47:56.000.223,B:\IOS\aksv10\slockAks\checkInternet.pas=B:\IOS\aksv10\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/26 08:48:14.000.487,=B:\IOS\aksv10\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/26 08:48:22.000.682,B:\IOS\aksv10\slockAks\offline.fmx=B:\IOS\aksv10\slockAks\Unit1.fmx</Transaction>
+    <Transaction>2019/09/26 08:48:22.000.682,B:\IOS\aksv10\slockAks\offline.pas=B:\IOS\aksv10\slockAks\Unit1.pas</Transaction>
+    <Transaction>2019/09/26 08:52:53.000.044,=B:\IOS\aksv10\slockAks\checkInternet.pas</Transaction>
+    <Transaction>2019/09/26 08:54:54.000.971,B:\IOS\aksv10\slockAks\checkInternet.pas=</Transaction>
+    <Transaction>2019/09/26 15:26:15.000.705,=B:\IOS\aksv10\slockAks\Unit2.pas</Transaction>
+    <Transaction>2019/09/26 15:26:24.000.271,B:\IOS\aksv10\slockAks\setdevice.pas=B:\IOS\aksv10\slockAks\Unit2.pas</Transaction>
+    <Transaction>2019/09/26 15:26:24.000.271,B:\IOS\aksv10\slockAks\setdevice.fmx=B:\IOS\aksv10\slockAks\Unit2.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PDemo iOSSimulator="iPhone5"/>
+		<Pketnoi iOSSimulator="iPhone5"/>
+		<NoProfile Android="AVD1"/>
+		<PMacLinh iOSSimulator="_iossimulator_2EB733C5-6EEB-4D15-8198-8B8397543983"/>
+		<PLinhDemo iOSSimulator="_iossimulator_33B478CA-6C66-4974-90F2-4A8D391CA5E4"/>
+		<Plinh iOSSimulator="_iossimulator_7B7B4650-1682-44EE-803C-56D8EAE11640" iOSDevice32="_iosdevice_668fe4ca93917d25d4c74affbf3859f32a4299eb" iOSDevice64="_iosdevice_668fe4ca93917d25d4c74affbf3859f32a4299eb"/>
+		<PPAS1 iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+	<BT_BuildType>Debug</BT_BuildType>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-base.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-identifier.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-lite.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-base.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-basement.16.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-gass.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-identity.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-maps.16.1.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-base.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-sdk-api.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-stats.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tagmanager-v4-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tasks.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-wallet.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-analytics.16.4.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-common.16.1.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid-interop.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid.17.1.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-measurement-connector.17.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-messaging.17.5.0.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="combinedlogin.pas"/>
+    <File Path="combinedlogin.fmx"/>
+    <File Path="controldevice.pas"/>
+    <File Path="controldevice.fmx"/>
+    <File Path="jsonadapter.pas"/>
+    <File Path="log.pas"/>
+    <File Path="log.fmx"/>
+    <File Path="login.pas"/>
+    <File Path="login.fmx"/>
+    <File Path="Main.pas"/>
+    <File Path="Main.fmx"/>
+    <File Path="plan.pas"/>
+    <File Path="plan.fmx"/>
+    <File Path="settings.pas"/>
+    <File Path="settings.fmx"/>
+    <File Path="ThreadUpdateAPI.pas"/>
+    <File Path="user2.pas"/>
+    <File Path="user2.fmx"/>
+    <File Path="offline.pas"/>
+    <File Path="offline.fmx"/>
+    <File Path="setdevice.pas"/>
+    <File Path="setdevice.fmx"/>
+  </ProjectSortOrder>
+</BorlandProject>
